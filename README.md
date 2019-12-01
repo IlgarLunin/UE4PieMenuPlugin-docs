@@ -39,7 +39,7 @@ Python menu is special one!
 2) Second - create python scripts to be added to menu. When command is activated, plugin will search `PieMenuEntry_` prefixed python scripts e.g. ("PieMenuEntry_MyUtil.py")
 under following directories:
     * ProjectRoot/Content/Python
-    * Plugin/Content/Python
+    * Documents/UnrealEngine/Python
 
 For example, this file structure:
 
