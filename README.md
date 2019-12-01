@@ -6,7 +6,7 @@ This plugin adds blender-like radial menus to Unreal Engine 4 editor.
 
 Please join to [discord server](https://discord.gg/yBsVaBX) for live feedback and support!
 
-> Unlike blender, menus can be nested, like maya's markin menus.
+> Unlike blender, menus can be nested, like maya's marking menus.
 
 > Menu entries are evenly distributed in a circle.
 
