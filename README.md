@@ -30,7 +30,7 @@ To summon particular menu, hit corresponding keyboard shortcut.
 
 ![shortcuts](img/shortcuts.png)
 
-While buttons are pressed, move mouse pointer aside.
+While buttons are pressed, move mouse pointer aside. To execute menu action, release shortcut with menu entry being selected.
 
 ## How to setup python menu
 Python menu is special one!
