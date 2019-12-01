@@ -12,12 +12,16 @@ This plugin adds blender-like radial menus to Unreal Engine 4 editor.
 
 For now there are 4 menus that can be invoked inside level editor viewport:
   * Modes menu
+
     ![nesting](img/modes.gif)
   * Python menu
+
     ![pyMenu2](img/pyMenu2.gif)
   * Shading menu
+
     ![shading](img/shading.gif)
   * Viewport type menu
+
     ![views](img/views.gif)
 
 To summon particular menu, hit corresponding keyboard shortcut.
